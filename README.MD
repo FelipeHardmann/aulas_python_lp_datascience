@@ -1,3 +1,7 @@
-# Curso de Ciência de Dados
+# Curso de Ciência de Dados / Full Stack
 
-## Material de apoio para os alunos que desejam ingressar no mundo de dados com **Python**, **Pandas**, **Matplotlib** e **Seaborn**
+## Material de apoio para os alunos que desejam aprender Python, Dados, banco e etc
+
+------------------------------------------
+
+ -                     🚧 🚀Material Em construção... 🚧
